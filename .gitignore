@@ -22,3 +22,8 @@
 # OS files
 .DS_Store
 Thumbs.db
+
+# Compiled binaries
+*.out
+ex1_*
+.cpp
