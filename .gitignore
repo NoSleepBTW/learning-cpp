@@ -4,7 +4,7 @@
 
 # Exclude specific compiled binaries in exercises folders
 **/exercises/*
-!**/exercises/*.cpp
+!**/exercises/*!*.cpp
 !**/exercises/*.h
 !**/exercises/*.hpp
 
@@ -26,4 +26,4 @@ Thumbs.db
 # Compiled binaries
 *.out
 ex1_*
-.cpp
+!*.cpp
