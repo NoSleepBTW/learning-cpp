@@ -24,4 +24,3 @@ cpp_learning/
 - [x] Chapter 1: Getting Started
 - [ ] Chapter 2: Variables and Basic Types
 - [ ] ...more to come
-E0F
