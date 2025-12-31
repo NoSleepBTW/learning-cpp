@@ -1,0 +1,24 @@
+# Compiled executables (no extension or common patterns)
+*.out
+*.exe
+
+# Exclude specific compiled binaries in exercises folders
+**/exercises/*
+!**/exercises/*.cpp
+!**/exercises/*.h
+!**/exercises/*.hpp
+
+# Object files
+*.o
+*.obj
+
+# IDE/Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
